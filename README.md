@@ -18,6 +18,9 @@ Determinar qué géneros cinematográficos generan mayor rentabilidad, diferenci
 
 ## Resultado
 El análisis permite identificar géneros que funcionan como generadores de volumen frente a aquellos que sostienen el ingreso, proponiendo una estrategia de precios basada en comportamiento del cliente y rentabilidad.
-
+## Actualización de análisis
+- Se agregó análisis de concentración de ingresos por cliente
+- Se incorporó segmentación de clientes activos vs poco activos
+- Se optimizaron métricas de rentabilidad por género
 ## Dashboard
 El archivo `.pbix` contiene el dashboard interactivo desarrollado en Power BI.
